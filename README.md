@@ -1,3 +1,5 @@
+## Cryptoverse ##
+
 This is a front-end project. It display crypto coins and their information and current value fetched from Coinranking API </br>
 News are fetched from Bing News API</br></br>
 Frontend : ReactJS, contextAPI
